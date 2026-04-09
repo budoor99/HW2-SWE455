@@ -1,0 +1,15 @@
+{
+  "name": "maas-receiver",
+  "version": "1.0.0",
+  "description": "MaaS Receiver – accepts POST /estimate_pi, returns 202, serves GET /result/:jobId for polling",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "@google-cloud/pubsub": "^4.4.0",
+    "@google-cloud/firestore": "^7.9.0",
+    "uuid": "^9.0.0"
+  }
+}
