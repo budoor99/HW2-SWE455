@@ -1,0 +1,264 @@
+{
+  "url": "https://maas-gateway-rryafp6.uc.gateway.dev",
+  "concurrent": 50,
+  "total_points": 10000000,
+  "summary": {
+    "accepted": 50,
+    "results_received": 50,
+    "submit_wall_sec": 1.25,
+    "poll_wall_sec": 4.862,
+    "avg_pi": 3.141522
+  },
+  "jobs": [
+    {
+      "job_id": "432a67f4-1b11-48f9-8466-d87906875853",
+      "pi_estimate": 3.14103,
+      "attempts": 2
+    },
+    {
+      "job_id": "2dee62a4-4d15-4b32-bb28-b23d076e3988",
+      "pi_estimate": 3.1411156,
+      "attempts": 1
+    },
+    {
+      "job_id": "c79907cb-9e0d-4d04-93fa-c1d16dbeb717",
+      "pi_estimate": 3.141752,
+      "attempts": 1
+    },
+    {
+      "job_id": "a6c0beed-b668-4385-9374-5555e74effc9",
+      "pi_estimate": 3.1417364,
+      "attempts": 1
+    },
+    {
+      "job_id": "7a329be7-dc8f-4039-8d8c-6282498eb37c",
+      "pi_estimate": 3.1412564,
+      "attempts": 1
+    },
+    {
+      "job_id": "1e5e1c94-8976-44d3-813b-756484e65fde",
+      "pi_estimate": 3.1414052,
+      "attempts": 2
+    },
+    {
+      "job_id": "b99479f6-6d4f-49b6-b3c1-ee9a1f12f0a0",
+      "pi_estimate": 3.1426184,
+      "attempts": 1
+    },
+    {
+      "job_id": "dca725a8-b01d-431e-ba5d-be51df54685d",
+      "pi_estimate": 3.1416304,
+      "attempts": 2
+    },
+    {
+      "job_id": "8dc32e32-6c14-4e22-bb51-07a2016f66cc",
+      "pi_estimate": 3.140226,
+      "attempts": 1
+    },
+    {
+      "job_id": "47d87d8c-6008-48b2-b485-d8d80e1e2700",
+      "pi_estimate": 3.1407984,
+      "attempts": 1
+    },
+    {
+      "job_id": "50f5b2ad-e4fa-49ed-9e8f-c028804c39d1",
+      "pi_estimate": 3.14217,
+      "attempts": 1
+    },
+    {
+      "job_id": "a648b925-7c42-4bdd-86c1-68788dee4b56",
+      "pi_estimate": 3.1415792,
+      "attempts": 1
+    },
+    {
+      "job_id": "3d7fbe50-966e-40bb-be80-5841c431cbff",
+      "pi_estimate": 3.1414808,
+      "attempts": 1
+    },
+    {
+      "job_id": "b56b2f8c-e706-4795-8a98-47eb89feded2",
+      "pi_estimate": 3.1415136,
+      "attempts": 1
+    },
+    {
+      "job_id": "d22b956e-9959-49d6-960e-13c3e2757158",
+      "pi_estimate": 3.141176,
+      "attempts": 1
+    },
+    {
+      "job_id": "fb77b2ae-0b95-410c-9408-19ffeaa1c333",
+      "pi_estimate": 3.142044,
+      "attempts": 1
+    },
+    {
+      "job_id": "960b39cd-d176-467f-8756-c3a5216e2108",
+      "pi_estimate": 3.1411252,
+      "attempts": 1
+    },
+    {
+      "job_id": "0cc57dec-b720-4785-9ab8-3d40b25690bd",
+      "pi_estimate": 3.1424284,
+      "attempts": 2
+    },
+    {
+      "job_id": "6fdf4018-327c-4470-b3d6-c0f4a1dc6f93",
+      "pi_estimate": 3.1415444,
+      "attempts": 1
+    },
+    {
+      "job_id": "1ea00b4d-7926-4045-8850-7c358d8a8563",
+      "pi_estimate": 3.1405836,
+      "attempts": 1
+    },
+    {
+      "job_id": "1f398e4b-ac63-4e12-8eee-9f8b212124d1",
+      "pi_estimate": 3.1418252,
+      "attempts": 1
+    },
+    {
+      "job_id": "fb479592-6395-412f-84ee-cac931aaaaf3",
+      "pi_estimate": 3.1413628,
+      "attempts": 1
+    },
+    {
+      "job_id": "acbce4fb-1951-4a6f-919c-6a46c53ce403",
+      "pi_estimate": 3.1419228,
+      "attempts": 1
+    },
+    {
+      "job_id": "b3f0a451-760d-4748-aab7-a2ee6d7ce262",
+      "pi_estimate": 3.14206,
+      "attempts": 2
+    },
+    {
+      "job_id": "0c87ab0f-7b93-4ad0-bed7-ff5d5018f7d2",
+      "pi_estimate": 3.1413932,
+      "attempts": 1
+    },
+    {
+      "job_id": "b44586ab-427c-47c6-9bf5-08c80d7d5f15",
+      "pi_estimate": 3.1415108,
+      "attempts": 2
+    },
+    {
+      "job_id": "144cb4ee-a388-4778-9773-2f59195134b0",
+      "pi_estimate": 3.1413676,
+      "attempts": 1
+    },
+    {
+      "job_id": "1c04241e-0404-4bbe-9a4d-df5e0d9df5f5",
+      "pi_estimate": 3.14127,
+      "attempts": 1
+    },
+    {
+      "job_id": "a2d0aff1-4c47-4397-a1ec-deb607f3f44c",
+      "pi_estimate": 3.1410932,
+      "attempts": 1
+    },
+    {
+      "job_id": "d9101413-44c4-4340-a8a1-efc9e87d1e63",
+      "pi_estimate": 3.1412868,
+      "attempts": 2
+    },
+    {
+      "job_id": "214f4963-f515-4f28-8076-ae4ec830ab6e",
+      "pi_estimate": 3.1416272,
+      "attempts": 1
+    },
+    {
+      "job_id": "ccceb300-df14-4e56-b45b-4eb57627a818",
+      "pi_estimate": 3.1417216,
+      "attempts": 1
+    },
+    {
+      "job_id": "918e2023-e795-42c9-95fe-5b7f209511ba",
+      "pi_estimate": 3.1410228,
+      "attempts": 1
+    },
+    {
+      "job_id": "bdf229fc-8a93-49b5-a614-9c88df7a4c2f",
+      "pi_estimate": 3.1412724,
+      "attempts": 1
+    },
+    {
+      "job_id": "28ad1199-9951-46c5-9631-6111f8407b55",
+      "pi_estimate": 3.1405692,
+      "attempts": 2
+    },
+    {
+      "job_id": "7e84a0b9-e8a0-470b-ac3c-563ed1546da6",
+      "pi_estimate": 3.1412672,
+      "attempts": 2
+    },
+    {
+      "job_id": "0572cabf-f5a6-437e-b0a9-f8f4db5cfb93",
+      "pi_estimate": 3.142148,
+      "attempts": 2
+    },
+    {
+      "job_id": "7f9c5bdb-b6a2-49a2-ada0-9adfe9e84a53",
+      "pi_estimate": 3.1426216,
+      "attempts": 1
+    },
+    {
+      "job_id": "0a1a125f-c6af-4a28-bd87-776a9290768d",
+      "pi_estimate": 3.1423588,
+      "attempts": 1
+    },
+    {
+      "job_id": "e83c3364-f561-4f3e-b968-d1f14a724f4c",
+      "pi_estimate": 3.14175,
+      "attempts": 2
+    },
+    {
+      "job_id": "ca587c51-bf58-4559-b72e-14779b1f3713",
+      "pi_estimate": 3.1411788,
+      "attempts": 1
+    },
+    {
+      "job_id": "a3f6cb33-e4d1-469c-9eef-250b1888559b",
+      "pi_estimate": 3.142478,
+      "attempts": 1
+    },
+    {
+      "job_id": "48185010-f7fe-4353-af85-82011f7e4b05",
+      "pi_estimate": 3.1406704,
+      "attempts": 1
+    },
+    {
+      "job_id": "c39df5ea-3324-4c44-964f-081fab8c270c",
+      "pi_estimate": 3.1424524,
+      "attempts": 1
+    },
+    {
+      "job_id": "91912271-b14c-4164-8957-a3245f1e16b9",
+      "pi_estimate": 3.1408896,
+      "attempts": 1
+    },
+    {
+      "job_id": "a41ea710-4fe6-43da-a3e8-a45ab225a606",
+      "pi_estimate": 3.1414144,
+      "attempts": 1
+    },
+    {
+      "job_id": "ae139539-7737-4d25-a3e8-fe69a92823fc",
+      "pi_estimate": 3.1406108,
+      "attempts": 1
+    },
+    {
+      "job_id": "6b94e89e-7f39-4c66-954a-56ac99cd59d7",
+      "pi_estimate": 3.141662,
+      "attempts": 1
+    },
+    {
+      "job_id": "607d8d54-d925-4367-93d1-309567366389",
+      "pi_estimate": 3.1424496,
+      "attempts": 1
+    },
+    {
+      "job_id": "15347a50-9789-4515-a38f-29cc420e2543",
+      "pi_estimate": 3.1416368,
+      "attempts": 1
+    }
+  ]
+}
