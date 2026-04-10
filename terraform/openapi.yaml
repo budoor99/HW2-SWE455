@@ -1,0 +1,60 @@
+swagger: "2.0"
+info:
+  title: MaaS API
+  description: Monte Carlo Pi Estimation API
+  version: "1.0.0"
+host: "maas-gateway-rryafp6.uc.gateway.dev"
+basePath: "/"
+schemes:
+  - https
+consumes:
+  - application/json
+produces:
+  - application/json
+
+paths:
+  /estimate_pi:
+    post:
+      summary: Submit a Pi estimation job
+      operationId: estimatePi
+      parameters:
+        - in: body
+          name: body
+          required: true
+          schema:
+            $ref: "#/definitions/EstimateRequest"
+      responses:
+        "202":
+          description: Job accepted
+        "400":
+          description: Bad request
+      x-google-backend:
+        address: "RECEIVER_CLOUD_RUN_URL/estimate_pi"
+
+  "/result/{jobId}":
+    get:
+      summary: Poll for simulation result
+      operationId: getResult
+      parameters:
+        - in: path
+          name: jobId
+          required: true
+          type: string
+      responses:
+        "200":
+          description: Result ready
+        "202":
+          description: Still pending
+      x-google-backend:
+        address: "RECEIVER_CLOUD_RUN_URL"
+        path_translation: APPEND_PATH_TO_ADDRESS
+
+definitions:
+  EstimateRequest:
+    type: object
+    required:
+      - total_points
+    properties:
+      total_points:
+        type: integer
+        example: 10000000
